@@ -6,8 +6,5 @@
   {
     "package": "wilson",
     "oncran": true
-  },
-  {
-    "package": "multicrispr"
   }
 ]
