@@ -13,3 +13,8 @@
 	url = https://github.com/loosolab/wilson
 	shallow = true
 	registered = true
+[submodule "multicrispr"]
+	path = multicrispr
+	url = https://github.com/loosolab/multicrispr
+	shallow = true
+	registered = true
