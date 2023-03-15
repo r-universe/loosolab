@@ -1,13 +1,13 @@
 [
   {
-    "package": "wilson",
+    "package": "i2dash",
     "oncran": true
   },
   {
     "package": "multicrispr"
   },
   {
-    "package": "i2dash",
+    "package": "wilson",
     "oncran": true
   }
 ]

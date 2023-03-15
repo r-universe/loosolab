@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "wilson"]
-	path = wilson
-	url = https://github.com/loosolab/wilson
+[submodule "i2dash"]
+	path = i2dash
+	url = https://github.com/loosolab/i2dash
 	shallow = true
 	registered = true
 [submodule "multicrispr"]
@@ -13,8 +13,8 @@
 	url = https://github.com/loosolab/multicrispr
 	shallow = true
 	registered = true
-[submodule "i2dash"]
-	path = i2dash
-	url = https://github.com/loosolab/i2dash
+[submodule "wilson"]
+	path = wilson
+	url = https://github.com/loosolab/wilson
 	shallow = true
 	registered = true
