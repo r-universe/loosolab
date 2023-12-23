@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "i2dash"]
-	path = i2dash
-	url = https://github.com/loosolab/i2dash
 [submodule "multicrispr"]
 	path = multicrispr
 	url = https://github.com/loosolab/multicrispr
